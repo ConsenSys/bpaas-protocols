@@ -13,4 +13,5 @@ const (
 	ORGANIZATION_STATUS_FAILED           = "bpaas.organization.status.failed"
 	ORGANIZATION_REGISTER_USER_COMPLETED = "bpaas.organization.register_user.completed"
 	ORGANIZATION_REGISTER_USER_FAILED    = "bpaas.organization.register_user.failed"
+	XXX                                  = "xxx"
 )
