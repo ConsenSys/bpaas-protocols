@@ -4,6 +4,7 @@ const (
 	ORGANIZATION_CREATE_FAILED           = "bpaas.organization.create.failed"
 	ORGANIZATION_CREATE_IN_PROGRESS      = "bpaas.organization.create.inprogress"
 	ORGANIZATION_GET_COMPLETED           = "bpaas.organization.get.completed"
+	ORGANIZATION_GET_FAILED              = "bpaas.organization.get.failed"
 	ORGANIZATION_LIST_ALL_COMPLETED      = "bpaas.organization.list_all.completed"
 	ORGANIZATION_LIST_ALL_FAILED         = "bpaas.organization.list_all.failed"
 	ORGANIZATION_LIST_COMPLETED          = "bpaas.organization.list.completed"
