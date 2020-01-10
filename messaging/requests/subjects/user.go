@@ -9,7 +9,6 @@ const (
 	USER_LIST_ALL               = "bpaas.user.list_all"
 	USER_LIST_COMPANY           = "bpaas.user.list_company"
 	USER_LIST_PLATFORM          = "bpaas.user.list_platform"
-	USER_LIST                   = "bpaas.user.list_company"
 	USER_RESET_PASSWORD         = "bpaas.user.reset_password"
 	USER_ROLE_UPDATE            = "bpaas.user.update_role"
 	USER_SUSPEND                = "bpaas.user.suspend"

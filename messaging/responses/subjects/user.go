@@ -3,6 +3,8 @@ package subjects
 const (
 	USER_LIST_COMPANY_COMPLETED           = "bpaas.user.list_company.completed"
 	USER_LIST_COMPANY_FAILED              = "bpaas.user.list_company.failed"
+	USER_LIST_ALL_COMPLETED               = "bpaas.user.list_all.completed"
+	USER_LIST_ALL_FAILED                  = "bpaas.user.list_all.failed"
 	USER_ACTIVATE_COMPLETED               = "bpaas.user.activate.completed"
 	USER_ACTIVATE_FAILED                  = "bpaas.user.activate.failed"
 	USER_AUTH_COMPLETED                   = "bpaas.user.auth.completed"
@@ -15,8 +17,6 @@ const (
 	USER_INVITE_FAILED                    = "bpaas.user.invite.failed"
 	USER_IS_AUTHORIZED_COMPLETED          = "bpaas.user.is_authorized.completed"
 	USER_IS_AUTHORIZED_FAILED             = "bpaas.user.is_authorized.failed"
-	USER_LIST_COMPLETED                   = "bpaas.user.list.completed"
-	USER_LIST_FAILED                      = "bpaas.user.list.failed"
 	USER_PASSWORD_CONFIRM_RESET_COMPLETED = "bpaas.user.password.confirm_reset.completed"
 	USER_PASSWORD_CONFIRM_RESET_FAILED    = "bpaas.user.password.confirm_reset.failed"
 	USER_PASSWORD_RESET_COMPLETED         = "bpaas.user.password.reset.completed"
