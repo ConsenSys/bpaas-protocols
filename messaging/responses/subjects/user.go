@@ -3,6 +3,8 @@ package subjects
 const (
 	USER_LIST_COMPANY_COMPLETED           = "bpaas.user.list_company.completed"
 	USER_LIST_COMPANY_FAILED              = "bpaas.user.list_company.failed"
+	USER_LIST_PLATFORM_COMPLETED          = "bpaas.user.list_company.completed"
+	USER_LIST_PLATFORM_FAILED             = "bpaas.user.list_company.failed"
 	USER_LIST_ALL_COMPLETED               = "bpaas.user.list_all.completed"
 	USER_LIST_ALL_FAILED                  = "bpaas.user.list_all.failed"
 	USER_ACTIVATE_COMPLETED               = "bpaas.user.activate.completed"
