@@ -11,6 +11,8 @@ var (
 	EMAIL_REJECT_FAILED            = "bpaas.email.reject.failed"
 	EMAIL_USER_ACTIVATE_COMPLETED  = "bpaas.email.user.activate.completed"
 	EMAIL_USER_ACTIVATE_FAILED     = "bpaas.email.user.activate.failed"
+	EMAIL_USER_ACTIVATED_COMPLETED = "bpaas.email.user.activated.completed"
+	EMAIL_USER_ACTIVATED_FAILED    = "bpaas.email.user.activated.failed"
 	EMAIL_VERIFY_COMPLETED         = "bpaas.email.verify.completed"
 	EMAIL_VERIFY_FAILED            = "bpaas.email.verify.failed"
 )
