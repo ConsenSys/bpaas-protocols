@@ -11,4 +11,6 @@ const (
 	ORGANIZATION_REQUEST_LIST_FAILED        = "bpaas.organization_request.list.failed"
 	ORGANIZATION_REQUEST_REJECT_COMPLETED   = "bpaas.organization_request.reject.completed"
 	ORGANIZATION_REQUEST_REJECT_FAILED      = "bpaas.organization_request.reject.failed"
+	ORGANIZATION_REQUEST_EMAIL_COMPLETED    = "bpaas.organization_request.email.completed"
+	ORGANIZATION_REQUEST_EMAIL_FAILED       = "bpaas.organization_request.email.failed"
 )
