@@ -15,7 +15,6 @@ const (
 	CHAINCODE_LIST_BY_CHANNEL_FAILED       = "bpaas.chaincode.list_by_channel.failed"
 	CHAINCODE_LIST_COMPLETED               = "bpaas.chaincode.list.completed"
 	CHAINCODE_LIST_FAILED                  = "bpaas.chaincode.list.failed"
-	CHAINCODE_RETRY_INSTALL                = "bpaas.chaincode.install.retry"
 	CHAINCODE_SCAN_FAILED                  = "bpaas.file_scan.scan.failed"
 	CHAINCODE_SCAN_MALWARE                 = "bpaas.file_scan.scan.malicious"
 	CHAINCODE_SCAN_SUCCESS                 = "bpaas.file_scan.scan.ok"
