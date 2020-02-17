@@ -16,6 +16,7 @@ const (
 	CHAINCODE_LIST_COMPLETED               = "bpaas.chaincode.list.completed"
 	CHAINCODE_LIST_FAILED                  = "bpaas.chaincode.list.failed"
 	CHAINCODE_SCAN_FAILED                  = "bpaas.file_scan.scan.failed"
+	CHAINCODE_SCAN_INPROGRESS              = "bpaas.file_scan.scan.inprogress"
 	CHAINCODE_SCAN_MALWARE                 = "bpaas.file_scan.scan.malicious"
 	CHAINCODE_SCAN_SUCCESS                 = "bpaas.file_scan.scan.ok"
 )

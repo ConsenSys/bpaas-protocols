@@ -7,6 +7,7 @@ const (
 	CONSORTIUM_INVITATION_OUTGOING_LIST_FAILED    = "bpaas.consortium_invitation.outgoing.list.failed"
 	CONSORTIUM_INVITATION_ACCEPT_COMPLETED        = "bpaas.consortium_invitation.accept.completed"
 	CONSORTIUM_INVITATION_ACCEPT_FAILED           = "bpaas.consortium_invitation.accept.failed"
+	CONSORTIUM_INVITATION_ACCEPT_INPROGRESS       = "bpaas.consortium_invitation.accept.inprogress"
 	CONSORTIUM_INVITATION_REJECT_COMPLETED        = "bpaas.consortium_invitation.reject.completed"
 	CONSORTIUM_INVITATION_REJECT_FAILED           = "bpaas.consortium_invitation.reject.failed"
 	CONSORTIUM_INVITATION_GET_COMPLETED           = "bpaas.consortium_invitation.get.completed"
