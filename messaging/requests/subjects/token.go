@@ -1,6 +1,6 @@
 package subjects
 
 const (
-	TOKEN_CREATE = "bpaas.token.create"
-	TOKEN_GET    = "bpaas.token.get"
+	GET_TOKEN    = "bpaas.token.create"
+	CREATE_TOKEN = "bpaas.token.get"
 )
