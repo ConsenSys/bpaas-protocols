@@ -3,8 +3,6 @@ package subjects
 const (
 	USER_LIST_COMPLETED                   = "bpaas.user.list_company.completed"
 	USER_LIST_FAILED                      = "bpaas.user.list_company.failed"
-	USER_LIST_PLATFORM_COMPLETED          = "bpaas.user.list_platform.completed"
-	USER_LIST_PLATFORM_FAILED             = "bpaas.user.list_platform.failed"
 	USER_LIST_ALL_COMPLETED               = "bpaas.user.list_all.completed"
 	USER_LIST_ALL_FAILED                  = "bpaas.user.list_all.failed"
 	USER_ACTIVATE_COMPLETED               = "bpaas.user.activate.completed"
@@ -33,4 +31,6 @@ const (
 	USER_UPDATE_ROLE_FAILED               = "bpaas.user.update_role.failed"
 	USER_WHOAMI_COMPLETED                 = "bpaas.user.whoami.completed"
 	USER_WHOAMI_FAILED                    = "bpaas.user.whoami.failed"
+	USER_REINVITE_COMPLETED               = "bpaas.user.reinvite.completed"
+	USER_REINVITE_FAILED                  = "bpaas.user.reinvite.failed"
 )
