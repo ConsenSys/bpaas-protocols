@@ -33,4 +33,6 @@ const (
 	USER_WHOAMI_FAILED                    = "bpaas.user.whoami.failed"
 	USER_REINVITE_COMPLETED               = "bpaas.user.reinvite.completed"
 	USER_REINVITE_FAILED                  = "bpaas.user.reinvite.failed"
+	USER_LOGOUT_COMPLETED                 = "bpaas.user.logout.completed"
+	USER_LOGOUT_FAILED                    = "bpaas.user.logout.failed"
 )
