@@ -18,4 +18,5 @@ const (
 	USER_VERIFY_EMAIL           = "bpaas.user.verify_email"
 	USER_VERIFY                 = "bpaas.user.verify"
 	USER_WHOAMI                 = "bpaas.user.whoami"
+	USER_LOGOUT                 = "bpaas.user.logout"
 )
