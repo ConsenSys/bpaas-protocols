@@ -19,5 +19,5 @@ const (
 	CONSORTIUM_APPROVALS_REJECT_FAILED              = "bpaas.consortium_invitation_approval.reject.failed"
 	CONSORTIUM_INVITATIONS_APPROVALS_LIST_COMPLETED = "bpaas.consortium_invitation_approval.list.completed"
 	CONSORTIUM_INVITATIONS_APPROVALS_LIST_FAILED    = "bpaas.consortium_invitation_approval.list.failed"
-	JOIN_CONSORTIUM_EMAIL_PARAMETERS_FAILED_SUBJECT = "bpaas.consortium_invitation_email_parameters.failed"
+	JOIN_CONSORTIUM_EMAIL_PARAMETERS_FAILED         = "bpaas.consortium_invitation_email_parameters.failed"
 )
