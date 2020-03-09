@@ -1,5 +1,6 @@
 package dto
 
+/*
 type PeerDTO struct {
 	ID             string
 	Name           string
@@ -8,3 +9,4 @@ type PeerDTO struct {
 	ChaincodeCount uint
 	ChannelsCount  uint
 }
+*/

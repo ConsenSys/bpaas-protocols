@@ -1,5 +1,6 @@
 package dto
 
+/*
 type InviteDataTransferType struct {
 	ID         string
 	Sender     UserDataTransferType
@@ -9,3 +10,4 @@ type InviteDataTransferType struct {
 	IsOutgoing bool
 	RoleID     string
 }
+*/

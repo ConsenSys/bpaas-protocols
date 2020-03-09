@@ -1,5 +1,6 @@
 package dto
 
+/*
 type ConsortiumDTO struct {
 	ID                         string
 	Name                       string
@@ -16,3 +17,4 @@ type OrganizationDTO struct {
 	Name         string
 	OriginalName string
 }
+*/

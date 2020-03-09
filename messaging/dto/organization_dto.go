@@ -1,5 +1,6 @@
 package dto
 
+/*
 type OrganizationDTO struct {
 	ID               string
 	OriginalName     string
@@ -12,3 +13,4 @@ type OrganizationDTO struct {
 	PeersCount       uint
 	OrderersCount    uint
 }
+*/

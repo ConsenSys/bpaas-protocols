@@ -1,8 +1,6 @@
 package dto
 
-import "time"
-
-type PeerDTO struct {
+/*type PeerDTO struct {
 	ID                 string
 	Name               string
 	ChaincodeInstalled bool
@@ -47,3 +45,4 @@ type ChaincodeChannelDTO struct {
 	Peers        []*PeerDTO
 	IsInstalled  bool
 }
+*/

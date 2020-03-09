@@ -1,5 +1,6 @@
 package dto
 
+/*
 type ChannelDTO struct {
 	ID                 string
 	Name               string
@@ -13,3 +14,4 @@ type ChannelDTO struct {
 	Public             bool
 	ConsortiumName     string
 }
+*/
