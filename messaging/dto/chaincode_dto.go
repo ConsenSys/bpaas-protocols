@@ -19,14 +19,6 @@ type ChaincodeLogDTO struct {
 	UpdatedAt   time.Time
 }
 
-type ChannelDTO struct {
-	ID           string
-	Name         string
-	Public       bool
-	Status       string
-	OriginalName string
-}
-
 type ChaincodeDTO struct {
 	ID             string
 	Name           string

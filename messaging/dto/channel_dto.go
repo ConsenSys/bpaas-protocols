@@ -1,7 +1,5 @@
 package dto
 
-//import model "github.com/consensys/bpaas-network/persistence/model"
-
 type ChannelDTO struct {
 	ID                 string
 	Name               string
