@@ -13,6 +13,7 @@ const (
 	USER_CREATE_FAILED                    = "bpaas.user.create.failed"
 	USER_EMAIL_VERIFICATION_COMPLETED     = "bpaas.user.verify_email.completed"
 	USER_EMAIL_VERIFICATION_FAILED        = "bpaas.user.verify_email.failed"
+	USER_INVALID_JWT                      = "bpaas.user.invalid_jwt"
 	USER_INVITE_COMPLETED                 = "bpaas.user.invite.completed"
 	USER_INVITE_FAILED                    = "bpaas.user.invite.failed"
 	USER_IS_AUTHORIZED_COMPLETED          = "bpaas.user.is_authorized.completed"
