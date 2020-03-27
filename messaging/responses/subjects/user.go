@@ -17,6 +17,8 @@ const (
 	USER_INVITE_FAILED                    = "bpaas.user.invite.failed"
 	USER_IS_AUTHORIZED_COMPLETED          = "bpaas.user.is_authorized.completed"
 	USER_IS_AUTHORIZED_FAILED             = "bpaas.user.is_authorized.failed"
+	USER_IS_COMPANY_MEMBER_COMPLETED      = "bpaas.user.is_company_member.completed"
+	USER_IS_COMPANY_MEMBER_FAILED         = "bpaas.user.is_company_member.failed"
 	USER_PASSWORD_CONFIRM_RESET_COMPLETED = "bpaas.user.password.confirm_reset.completed"
 	USER_PASSWORD_CONFIRM_RESET_FAILED    = "bpaas.user.password.confirm_reset.failed"
 	USER_PASSWORD_RESET_COMPLETED         = "bpaas.user.password.reset.completed"
