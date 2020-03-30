@@ -5,4 +5,5 @@ const (
 	INVITE_LIST   = "bpaas.invite.list"
 	INVITE_REJECT = "bpaas.invite.reject"
 	INVITE_SEND   = "bpaas.invite.send"
+	INVITE_RESEND = "bpaas.invite.resend"
 )
